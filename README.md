@@ -103,7 +103,7 @@
 ### 本地运行项目
 1. 安装[mongodb](https://www.mongodb.com/download-center?jmp=nav#community)并启动
 2. 安装[nodejs](https://nodejs.org/en/)环境
-3. 打开本地终端，执行`npm install`,`npm run dev `,访问http://localhost:8080  
+3. 打开本地终端，执行`npm install`,`npm run dev `,访问http://47.104.238.163:8080  
 4. 后台的默认用户名：q，默认密码：q
 
 ### 结语

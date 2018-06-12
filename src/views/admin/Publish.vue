@@ -41,7 +41,7 @@ export default {
       date: '',
       articleID: this.$route.params.id,
       upload: {
-        url: 'http://localhost:8080/api/upload'
+        url: 'http://47.104.238.163:8080/api/upload'
       },
       options: {
         linkify: true,
